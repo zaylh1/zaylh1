@@ -33,5 +33,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          curl https://bastion-iad.githubapp.com
+          curl https://vpn-ac4-iad-mgmt.githubapp.com
           echo test, and deploy your project.
